@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 public class DatabaseService {
     private String userName = "admin";
     private String password = "shwhehe67whd!";
-
+//ok
     public String getPassword () {
         return password;
     }
