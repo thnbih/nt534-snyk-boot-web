@@ -8,6 +8,6 @@ public class DatabaseService {
     private String password = "shwhehe67whd!";
 
     public String getPassword () {
-        return password;
+        return password
     }
 }
